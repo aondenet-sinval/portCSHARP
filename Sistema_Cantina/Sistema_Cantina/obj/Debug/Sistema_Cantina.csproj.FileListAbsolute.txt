@@ -1,0 +1,10 @@
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe.config
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.pdb
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csprojResolveAssemblyReference.cache
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Form1.resources
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Properties.Resources.resources
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.GenerateResource.Cache
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.exe
+c:\users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.pdb
+C:\Users\sr\documents\visual studio 2017\Projects\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Form2.resources
