@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes.deps.json
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes.runtimeconfig.json
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes.dll
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/ref/Classes.dll
+/home/sr/Learn/C#practicise/Classes/bin/Debug/net5.0/Classes.pdb
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.dll
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/ref/Classes.dll
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.pdb
+/home/sr/Learn/C#practicise/Classes/obj/Debug/net5.0/Classes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/sr/Learn/C#practicise/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/sr/Learn/C#practicise/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache

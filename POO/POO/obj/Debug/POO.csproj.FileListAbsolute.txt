@@ -1,0 +1,7 @@
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\bin\Debug\POO.exe.config
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\bin\Debug\POO.exe
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\bin\Debug\POO.pdb
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\obj\Debug\POO.exe
+C:\Users\sr\Documents\Visual Studio 2017\Projects\POO\POO\obj\Debug\POO.pdb

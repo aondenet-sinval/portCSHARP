@@ -1,0 +1,16 @@
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp.deps.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp.runtimeconfig.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp.runtimeconfig.dev.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ref/ProgramaApp.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/bin/Debug/net5.0/ProgramaApp.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.csprojAssemblyReference.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.AssemblyInfoInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.AssemblyInfo.cs
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.csproj.CoreCompileInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ref/ProgramaApp.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ProgramaApp/obj/Debug/net5.0/ProgramaApp.genruntimeconfig.cache

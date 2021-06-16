@@ -1,0 +1,6 @@
+Abacate Kg => R$2,30
+Laranja Kg => R$2,30
+Uva     Kg => R$2,30
+Banana  Kg => R$2,30
+Lima    Kg => R$2,30
+Abacaxi Kg => R$2,30

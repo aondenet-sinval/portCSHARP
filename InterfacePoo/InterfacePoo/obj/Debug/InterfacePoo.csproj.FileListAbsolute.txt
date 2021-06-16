@@ -1,0 +1,7 @@
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\bin\Debug\InterfacePoo.exe.config
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\bin\Debug\InterfacePoo.exe
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\bin\Debug\InterfacePoo.pdb
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\obj\Debug\InterfacePoo.csprojAssemblyReference.cache
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\obj\Debug\InterfacePoo.csproj.CoreCompileInputs.cache
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\obj\Debug\InterfacePoo.exe
+C:\Users\sr\Documents\Visual Studio 2017\Projects\InterfacePoo\InterfacePoo\obj\Debug\InterfacePoo.pdb

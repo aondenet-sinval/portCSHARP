@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica.deps.json
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica.runtimeconfig.json
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica.dll
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/ref/csharpPratica.dll
+/home/sr/Learn/C#practicise/csharpPratica/bin/Debug/net5.0/csharpPratica.pdb
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.dll
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/ref/csharpPratica.dll
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.pdb
+/home/sr/Learn/C#practicise/csharpPratica/obj/Debug/net5.0/csharpPratica.genruntimeconfig.cache

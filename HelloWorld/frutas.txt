@@ -1,0 +1,3 @@
+LISTA DE FRUTAS
+Abacate Kg => R$2,30\nLaranja Kg => R$2,30\nUva     Kg => R$2,30\nBanana  Kg => R$2,30\nLima    Kg => R$2,30\nAbacaxi Kg => R$2,30
+

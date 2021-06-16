@@ -1,0 +1,5 @@
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.csproj.AssemblyReference.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.AssemblyInfoInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.AssemblyInfo.cs
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/DIO.SERIES/obj/Debug/net5.0/DIO.SERIES.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.deps.json
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.json
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.dll
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/ref/BranchesAndLoops.dll
+/home/sr/Learn/C#practicise/branches-tutorial/bin/Debug/net5.0/BranchesAndLoops.pdb
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.dll
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/ref/BranchesAndLoops.dll
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.pdb
+/home/sr/Learn/C#practicise/branches-tutorial/obj/Debug/net5.0/BranchesAndLoops.genruntimeconfig.cache

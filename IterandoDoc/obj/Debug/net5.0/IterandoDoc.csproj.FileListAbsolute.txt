@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc.deps.json
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc.runtimeconfig.json
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc.dll
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/ref/IterandoDoc.dll
+/home/sr/Learn/C#practicise/IterandoDoc/bin/Debug/net5.0/IterandoDoc.pdb
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.dll
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/ref/IterandoDoc.dll
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.pdb
+/home/sr/Learn/C#practicise/IterandoDoc/obj/Debug/net5.0/IterandoDoc.genruntimeconfig.cache

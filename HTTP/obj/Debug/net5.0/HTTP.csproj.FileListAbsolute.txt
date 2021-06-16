@@ -1,0 +1,16 @@
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP.deps.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP.runtimeconfig.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP.runtimeconfig.dev.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/ref/HTTP.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/bin/Debug/net5.0/HTTP.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.csproj.AssemblyReference.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.AssemblyInfoInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.AssemblyInfo.cs
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.csproj.CoreCompileInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/ref/HTTP.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/HTTP/obj/Debug/net5.0/HTTP.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/sr/Learn/C#practicise/ClassLibraryProject/ShowCase/obj/Debug/net5.0/ShowCase.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/ClassLibraryProject/ShowCase/obj/Debug/net5.0/ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/ClassLibraryProject/ShowCase/obj/Debug/net5.0/ShowCase.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/ClassLibraryProject/ShowCase/obj/Debug/net5.0/ShowCase.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/ClassLibraryProject/ShowCase/obj/Debug/net5.0/ShowCase.csproj.CoreCompileInputs.cache

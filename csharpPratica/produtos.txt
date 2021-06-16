@@ -1,0 +1,4 @@
+PRODUTOS DE INFORMÁTICA
+CÓDIGO        DESCRIÇÃO
+0001    =   Lápis de cera
+0002    =   Caderno 5 matérias

@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.deps.json
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.json
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.dll
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/ref/NumbersInCSharp.dll
+/home/sr/Learn/C#practicise/numbers-quickstart/bin/Debug/net5.0/NumbersInCSharp.pdb
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.dll
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/ref/NumbersInCSharp.dll
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.pdb
+/home/sr/Learn/C#practicise/numbers-quickstart/obj/Debug/net5.0/NumbersInCSharp.genruntimeconfig.cache

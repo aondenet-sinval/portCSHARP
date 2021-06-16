@@ -1,0 +1,16 @@
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes.deps.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes.runtimeconfig.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes.runtimeconfig.dev.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/ref/GestordeClientes.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/bin/Debug/net5.0/GestordeClientes.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.csprojAssemblyReference.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.AssemblyInfoInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.AssemblyInfo.cs
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.csproj.CoreCompileInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/ref/GestordeClientes.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/GestordeClientes/obj/Debug/net5.0/GestordeClientes.genruntimeconfig.cache

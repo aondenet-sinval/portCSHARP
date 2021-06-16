@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial.deps.json
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial.runtimeconfig.json
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial.dll
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/ref/list-tutorial.dll
+/home/sr/Learn/C#practicise/list-tutorial/bin/Debug/net5.0/list-tutorial.pdb
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.dll
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/ref/list-tutorial.dll
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.pdb
+/home/sr/Learn/C#practicise/list-tutorial/obj/Debug/net5.0/list-tutorial.genruntimeconfig.cache

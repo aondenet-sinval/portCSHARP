@@ -1,0 +1,9 @@
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe.config
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.pdb
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csprojResolveAssemblyReference.cache
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Form1.resources
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Properties.Resources.resources
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.GenerateResource.Cache
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.exe
+c:\users\sr\documents\visual studio 2017\Projects\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.pdb

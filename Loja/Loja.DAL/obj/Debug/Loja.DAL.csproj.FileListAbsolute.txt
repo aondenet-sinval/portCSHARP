@@ -1,0 +1,9 @@
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DAL.dll
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DAL.pdb
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DTO.dll
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DTO.pdb
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\obj\Debug\Loja.DAL.csprojResolveAssemblyReference.cache
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\obj\Debug\Loja.DAL.dll
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DTO.dll.config
+C:\Users\sr\Documents\Visual Studio 2017\Projects\Loja\Loja.DAL\bin\Debug\Loja.DAL.dll.config

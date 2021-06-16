@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael.deps.json
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael.runtimeconfig.json
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael.dll
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/ref/Cael.dll
+/home/sr/Learn/C#practicise/Cael/bin/Debug/net5.0/Cael.pdb
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.dll
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/ref/Cael.dll
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.pdb
+/home/sr/Learn/C#practicise/Cael/obj/Debug/net5.0/Cael.genruntimeconfig.cache

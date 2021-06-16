@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora.deps.json
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.json
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora.dll
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/ref/Calculadora.dll
+/home/sr/Learn/C#practicise/Calculadora/bin/Debug/net5.0/Calculadora.pdb
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.dll
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/ref/Calculadora.dll
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.pdb
+/home/sr/Learn/C#practicise/Calculadora/obj/Debug/net5.0/Calculadora.genruntimeconfig.cache

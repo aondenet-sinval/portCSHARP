@@ -1,0 +1,16 @@
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos.deps.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos.runtimeconfig.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos.runtimeconfig.dev.json
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ref/ManipularArquivos.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/bin/Debug/net5.0/ManipularArquivos.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.csprojAssemblyReference.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.AssemblyInfoInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.AssemblyInfo.cs
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.csproj.CoreCompileInputs.cache
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ref/ManipularArquivos.dll
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.pdb
+/home/sr/Dropbox/+Espaço/csharp/Learn/C#practicise/ManipularArquivos/obj/Debug/net5.0/ManipularArquivos.genruntimeconfig.cache

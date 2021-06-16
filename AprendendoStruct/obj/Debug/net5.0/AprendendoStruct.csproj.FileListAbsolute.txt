@@ -1,0 +1,16 @@
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct.deps.json
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct.runtimeconfig.json
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct.runtimeconfig.dev.json
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct.dll
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/ref/AprendendoStruct.dll
+/home/sr/Learn/C#practicise/AprendendoStruct/bin/Debug/net5.0/AprendendoStruct.pdb
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.csprojAssemblyReference.cache
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.AssemblyInfoInputs.cache
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.AssemblyInfo.cs
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.csproj.CoreCompileInputs.cache
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.dll
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/ref/AprendendoStruct.dll
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.pdb
+/home/sr/Learn/C#practicise/AprendendoStruct/obj/Debug/net5.0/AprendendoStruct.genruntimeconfig.cache
